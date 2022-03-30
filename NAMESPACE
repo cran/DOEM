@@ -1,0 +1,10 @@
+#’ @importFrom np b.star
+
+importFrom(stats, rpois)
+importFrom(stats, dpois)
+
+export(DE_OEM)
+export(DMOEM)
+export(DM_OEM)
+export(E_OEM)
+export(M_OEM)
